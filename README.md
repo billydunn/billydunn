@@ -26,5 +26,5 @@ Clonal haematopoiesis (CH) occurs when a blood-forming stem cell in the bone mar
 - **Clonal Monocytosis** - Examining the prevalence and significance of clonal monocytosis, a subset of CH characterised by high monocyte counts.
 
 ## 🐍 I'm currently learning... 
-Most of my work to date has been based on R. As such, I'm currently enrolled on the [Learn2Discover](https://learntodiscover.ai) course to learn data handling and machine learning using Python. 
+Most of my work to date has been written in R. As such, I'm currently enrolled on the [Learn2Discover](https://learntodiscover.ai) course to learn data handling and machine learning using Python. 
 
